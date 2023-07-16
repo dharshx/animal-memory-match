@@ -9,7 +9,7 @@ This project is a web-based memory match game where players need to find pairs o
 
 ## Preview
 
-
+(output.png)
 
 ## Technologies Used
 

@@ -26,7 +26,4 @@ This project is a web-based memory match game where players need to find pairs o
 4. If the images match, the cards remain face up. If not, the cards flip back facedown.
 5. Continue flipping pairs of cards until all matches are found.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
